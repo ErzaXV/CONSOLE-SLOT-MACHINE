@@ -2,7 +2,9 @@ Simple console slot machine game made with c#
 with a built in jackpot guarantee system 🎰
 
 if all 3 strings are 7 = jackpot 💸
+
 if not = not jackpot 📉
+
 if count int (the times you spin) is 3 = jackpot 📉
 you can also modify it if you want.
 
